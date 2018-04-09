@@ -9,8 +9,8 @@
     <title>Sample Push Notification : Database Connection to Another Database Connection</title>
 </head>
 <body>
-    Sample here
-
-
+    <p>Sample here</p>
 </body>
+<script type="text/javascript" src="js/autobahn.js"></script>
+<script type="text/javascript" src="js/index.js"></script>
 </html>

@@ -104,6 +104,6 @@ CHANGELOG
   *
 
 
-* 0.1 (YY-MM-DD)
-  * First release with components: IoServer, WsServer, SessionProvider, WampServer, FlashPolicy, IpBlackList
-  * I/O now handled by React, making Ratchet fully asynchronous
+* 0.1 (2018-04-09)
+  * Initial commit
+  *
